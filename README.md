@@ -1,3 +1,3 @@
 # spring-boot-play
 
-repo for playing with spring-boot
+repo for playing with spring-boot and such
